@@ -41,7 +41,7 @@ void Scene::Input(float dT)
 	m_player.Input(dT);
 
 	// switch between views
-	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Enter)) {
+	if (sf::Keyboard::isKeyPressed(sf::Keyboard::Return)) {
 		if (!m_enter) {
 			m_enter = true;
 			m_topDownView = !m_topDownView;
