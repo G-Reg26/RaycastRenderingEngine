@@ -24,3 +24,5 @@ A 3D graphics rendering engine, which utilizes a raycast rendering technique
 Development halted until undetermined date
 # Credits
 Author: Gregorio Lozada</br>
+Line intersection algorithm is a modified version of GeeksforGeeks:</br>
+https://www.geeksforgeeks.org/program-for-point-of-intersection-of-two-lines/
